@@ -29,6 +29,6 @@ This project is licensed under the MIT License.
 
 ## Demonstration
 
-![Dashboard GIF](path/to/your/dashboard.gif)
+![Dashboard GIF](motodash.gif)
 
 Feel free to adjust the description as needed to better fit your project's specifics!
